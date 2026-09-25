@@ -1,0 +1,48 @@
+# ========================
+#  Personal Data (DO NOT PUSH)
+# ========================
+screenshots/
+*.db
+*.sqlite3
+journal_data.json
+journal_backup.py
+
+# ========================
+#  Python Environment
+# ========================
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# ========================
+#  OS & System Files
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+desktop.ini
+Thumbs.db
+
+# ========================
+#  IDE / Editor Folders
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+#  Build / Release Clutter
+# ========================
+Trading_Journal/
+Trading_Journal.zip
+build/
+dist/
+*.egg-info/
