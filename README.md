@@ -68,7 +68,7 @@ You need **Python 3.10 or higher**. Download from [python.org](https://python.or
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Trading_Journal.git
+git clone https://github.com/Sajannn-064/Trading_Journal.git
 cd Trading_Journal
 ```
 
