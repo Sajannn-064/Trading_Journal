@@ -8,7 +8,7 @@ A self-built desktop trading journal built with **Python + Streamlit**. Log your
 
 ## 📸 Preview
 
-![App Preview](preview.jpeg)
+![App Preview](assets/preview.jpeg)
 
 ---
 
