@@ -144,12 +144,6 @@ pip freeze > requirements.txt
 
 ## 👤 Author
 
-Made by **[Your Name]** — a trader building tools to improve discipline and consistency.
+Made by **Sajannn** — a trader building tools to improve discipline and consistency.
 
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
+- GitHub: [@Sajannn-064](https://github.com/Sajannn-064)
